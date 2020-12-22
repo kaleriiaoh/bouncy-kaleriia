@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="aaf2be58-cb2b-45aa-a628-6ade8a3d6b69" name="Default Changelist" comment="commit initialize">
+      <change afterPath="$PROJECT_DIR$/.idea/bouncy-kaleriia.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/watcherTasks.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="SCSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1m1nYYvSSU8K4CMmuh8hwmXb0oy" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/css" />
+    <property name="list.type.of.created.stylesheet" value="SCSS" />
+    <property name="settings.editor.selected.configurable" value="watcher.settings" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\bouncy-kaleriia" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\bouncy-kaleriia\css" />
+      <recent name="D:\bouncy-kaleriia" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="aaf2be58-cb2b-45aa-a628-6ade8a3d6b69" name="Default Changelist" comment="" />
+      <created>1608670012617</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1608670012617</updated>
+      <workItem from="1608670013662" duration="924000" />
+      <workItem from="1608670962492" duration="42000" />
+      <workItem from="1608671005140" duration="10036000" />
+    </task>
+    <task id="LOCAL-00001" summary="commit initialize">
+      <created>1608680294494</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1608680294494</updated>
+    </task>
+    <task id="LOCAL-00002" summary="commit initialize">
+      <created>1608680687448</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1608680687448</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_NEW_TODO" value="false" />
+    <MESSAGE value="commit initialize" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit initialize" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="845" y="354" width="672" height="342" key="#File_Watchers" timestamp="1608670931251">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="845" y="354" width="672" height="342" key="#File_Watchers/0.0.1920.1040@0.0.1920.1040" timestamp="1608670931251" />
+    <state x="585" y="197" key="CommitChangelistDialog2" timestamp="1608680686809">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="585" y="197" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1608680686809" />
+    <state x="629" y="298" key="EditFileWatcherDialog" timestamp="1608670901278">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="629" y="298" key="EditFileWatcherDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1608670901278" />
+    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1608671002485">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1608671002485" />
+    <state x="461" y="165" key="SettingsEditor" timestamp="1608670979414">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="461" y="165" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1608670979414" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1608680735389">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1608680735389" />
+    <state x="777" y="434" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1608680298094">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="777" y="434" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040@0.0.1920.1040" timestamp="1608680298094" />
+  </component>
+</project>

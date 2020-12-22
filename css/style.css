@@ -1,0 +1,25 @@
+@import "bootstrap.css";
+@import "bootstrap-grid.css";
+@import "bootstrap-reboot.css";
+@import "all.css";
+.block-header a {
+  background-color: #19bd9a;
+}
+
+.block-header {
+  background: url("../images/bg-header.jpg") no-repeat;
+  background-size: cover;
+  height: 100vh;
+}
+.block-header a {
+  width: 36px;
+  height: 36px;
+  top: 35%;
+  left: 50%;
+}
+.block-header a i {
+  padding-top: 11px;
+  color: #ffffff;
+}
+
+/*# sourceMappingURL=style.css.map */
