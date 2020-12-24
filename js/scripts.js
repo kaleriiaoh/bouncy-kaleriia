@@ -1,4 +1,4 @@
-document.addEventListener("DOMContentLoaded", function() {
+$(document).ready(function(){
 
     var circleProgress = (function(selector) {
         var wrapper = document.querySelectorAll(selector);
@@ -108,4 +108,41 @@ document.addEventListener("DOMContentLoaded", function() {
     function getRandom(min, max) {
         return Math.random() * (max - min) + min;
     }
+
+    $('.reviews-carousel').owlCarousel({
+        loop:true,
+        margin:0,
+        nav:true,
+        navText: [ '', ' ' ],
+
+        responsive:{
+            0:{
+                items:1
+            },
+
+            1000:{
+                items:1
+            }
+        }
+    });
+
+    $('.carousel-team').owlCarousel({
+        loop:true,
+        margin:0,
+        nav:true,
+        navText: [ '', ' ' ],
+
+        responsive:{
+            0:{
+                items:1
+            },
+
+            1000:{
+                items:1
+            }
+        }
+    });
+
 });
+
+
