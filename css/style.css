@@ -2,8 +2,85 @@
 @import "bootstrap-grid.css";
 @import "bootstrap-reboot.css";
 @import "all.css";
-.block-header a {
+@import url("https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&family=Roboto:wght@300&family=Source+Sans+Pro:wght@300&display=swap");
+.open-sans {
+  font-family: "Open Sans", sans-serif;
+}
+
+.source-sans-pro {
+  font-family: "Source Sans Pro", sans-serif;
+}
+
+.roboto {
+  font-family: "Roboto", sans-serif;
+}
+
+.font-20 {
+  font-size: 20px;
+}
+
+.font-35 {
+  font-size: 35px;
+}
+
+.font-16 {
+  font-size: 16px;
+}
+
+.font-14 {
+  font-size: 14px;
+}
+
+.letter-2 {
+  letter-spacing: 2px;
+}
+
+.letter-12 {
+  letter-spacing: 12px;
+}
+
+.letter-7 {
+  letter-spacing: 7px;
+}
+
+.color-default {
+  color: white;
+}
+
+.color-heading {
+  color: #333b46;
+}
+
+.color-text {
+  color: #81868e;
+}
+
+.padding-a {
+  padding: 10px 25px;
+}
+
+.highlighting-color {
+  color: #19bd9a;
+}
+
+.our-services .container .icon a, .about .icon a {
+  width: 53px;
+  height: 53px;
+  border-radius: 50%;
+  padding: 12px;
+  background-color: #81868e;
+}
+.block-header a, .our-services .container .icon a:hover, .about .icon a:hover {
   background-color: #19bd9a;
+}
+
+nav {
+  padding-top: 15px;
+}
+@media screen and (max-width: 767px) {
+  nav div ul {
+    background-color: #6c757d;
+  }
 }
 
 .block-header {
@@ -15,11 +92,110 @@
   width: 36px;
   height: 36px;
   top: 35%;
-  left: 50%;
+  left: 45%;
+}
+@media screen and (max-width: 768px) {
+  .block-header a {
+    top: 27%;
+    left: 45%;
+  }
 }
 .block-header a i {
   padding-top: 11px;
   color: #ffffff;
+}
+
+.block-hello {
+  padding: 115px 0 65px;
+}
+.block-hello h5 {
+  margin-bottom: 50px;
+}
+.block-hello p {
+  margin-bottom: 33px;
+}
+
+.about {
+  background-color: #f3f3f3;
+  padding: 54px 0 100px;
+}
+.about h5 {
+  margin-bottom: 40px;
+}
+.about .icon {
+  padding: 60px 0;
+}
+.about .icon a:not(:last-child) {
+  margin-right: 27px;
+}
+.about h6 {
+  color: #464646;
+  margin-bottom: 40px;
+}
+
+.featured-project__images .featured-project__img-wrapper:hover .featured-project__hover {
+  opacity: 1;
+}
+.featured-project__hover {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0, 0, 0, 0.5);
+  opacity: 0;
+}
+.featured-project .submit {
+  background: url("../images/bg-narrow.jpg");
+  padding: 38px 0;
+}
+
+.our-services {
+  padding-bottom: 137px;
+}
+.our-services .container .icon a:not(:last-child) {
+  margin-bottom: 17px;
+}
+
+.bg-style {
+  display: flex;
+  flex-direction: row;
+}
+
+.counter {
+  display: inline-flex;
+  cursor: pointer;
+  width: 150px;
+  height: 150px;
+  max-width: 100%;
+  position: relative;
+  justify-content: center;
+  align-items: center;
+  font-size: 25px;
+  font-weight: 500;
+  transition: height 0.2s ease-in-out;
+  background: #fff;
+  border-radius: 50%;
+}
+
+.percentage {
+  position: absolute;
+  text-align: center;
+  top: 50%;
+  left: 0;
+  right: 0;
+  vertical-align: middle;
+  transform: translate3d(0, -50%, 0);
+}
+
+canvas {
+  position: absolute;
+  top: 0;
+  left: 0;
 }
 
 /*# sourceMappingURL=style.css.map */
