@@ -134,6 +134,7 @@ nav div ul li:hover a, nav div ul li.active a {
 }
 @media screen and (max-width: 767px) {
   nav div ul {
+    -webkit-backdrop-filter: blur(9px);
     backdrop-filter: blur(9px);
   }
 }

@@ -146,6 +146,8 @@
           }
         }
         @include max-screen(767px) {
+
+          -webkit-backdrop-filter: blur(9px);
           backdrop-filter: blur(9px);
         }
       }
