@@ -1,26 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="aaf2be58-cb2b-45aa-a628-6ade8a3d6b69" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/css/fonts.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/BigJohn.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/BigJohn.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/BigJohn.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/BigJohn.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/BigJohn.woff2" afterDir="false" />
+    <list default="true" id="aaf2be58-cb2b-45aa-a628-6ade8a3d6b69" name="Default Changelist" comment="Аdded  all sections.">
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_23_12_2020_01_53_[Default_Changelist]/shelved.patch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_23_12_2020_01_53__Default_Changelist_.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/gallery.scss" beforeDir="false" afterPath="$PROJECT_DIR$/css/gallery.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/style.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css.map" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/style.scss" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/img-10.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/img-10.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/img-11.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/img-11.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/img-12.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/img-12.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/img-13.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/img-13.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/photo-2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/photo-2.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/photo-3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/photo-3.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/scripts.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/scripts.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,6 +29,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="A" />
+      </list>
+    </option>
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
         <entry key="$PROJECT_DIR$" value="main" />
@@ -87,7 +80,11 @@
       <workItem from="1608671005140" duration="10439000" />
       <workItem from="1608733843310" duration="27411000" />
       <workItem from="1608808066804" duration="41431000" />
-      <workItem from="1608894809699" duration="46652000" />
+      <workItem from="1608894809699" duration="46988000" />
+      <workItem from="1610375706441" duration="775000" />
+      <workItem from="1610382284895" duration="599000" />
+      <workItem from="1610489846000" duration="2000" />
+      <workItem from="1610738277444" duration="2555000" />
     </task>
     <task id="LOCAL-00001" summary="commit initialize">
       <created>1608680294494</created>
@@ -110,7 +107,14 @@
       <option name="project" value="LOCAL" />
       <updated>1608850915664</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Аdded  all sections.">
+      <created>1608943286097</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1608943286097</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -121,7 +125,8 @@
     <option name="CHECK_NEW_TODO" value="false" />
     <MESSAGE value="commit initialize" />
     <MESSAGE value="Аdded sections featured-project, our-services, impressed, portfolio, team, reviews, news, price." />
-    <option name="LAST_COMMIT_MESSAGE" value="Аdded sections featured-project, our-services, impressed, portfolio, team, reviews, news, price." />
+    <MESSAGE value="Аdded  all sections." />
+    <option name="LAST_COMMIT_MESSAGE" value="Аdded  all sections." />
   </component>
   <component name="WindowStateProjectService">
     <state x="845" y="354" width="672" height="342" key="#File_Watchers" timestamp="1608670931251">
@@ -132,10 +137,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="690" y="267" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1608940990277" />
-    <state x="585" y="197" key="CommitChangelistDialog2" timestamp="1608850914663">
+    <state x="585" y="197" key="CommitChangelistDialog2" timestamp="1610738642821">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="585" y="197" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1608850914663" />
+    <state x="585" y="197" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1610738642821" />
     <state x="629" y="298" key="EditFileWatcherDialog" timestamp="1608839258545">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -148,10 +153,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="461" y="165" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1608832109777" />
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1608850970948">
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1608943287792">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1608850970948" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1608943287792" />
     <state x="777" y="434" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1608681200657">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>

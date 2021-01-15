@@ -134,7 +134,7 @@ nav div ul li:hover a, nav div ul li.active a {
 }
 @media screen and (max-width: 767px) {
   nav div ul {
-    background-color: #6c757d;
+    backdrop-filter: blur(9px);
   }
 }
 
@@ -167,7 +167,7 @@ nav div ul li:hover a, nav div ul li.active a {
 .block-hello {
   padding: 115px 15px 65px;
 }
-.block-hello h5 {
+.block-hello h3 {
   margin-bottom: 50px;
 }
 .block-hello p {
@@ -177,6 +177,10 @@ nav div ul li:hover a, nav div ul li.active a {
   .block-hello {
     padding: 0 15px;
   }
+}
+.block-hello div a:hover {
+  background: #e6f0fa;
+  color: #19bd9a;
 }
 @media screen and (max-width: 768px) {
   .block-hello div div {
@@ -894,15 +898,7 @@ footer a:not(:last-child) {
   z-index: 4;
   transition: 0.3s ease-in-out;
   width: 100%;
-  text-align: left;
-}
-.container-gallery .gallery-item .text > h3:after {
-  content: "";
-  width: 23px;
-  bottom: 68%;
-  left: 10%;
-  border-bottom: 1px solid #19bd9a;
-  position: absolute;
+  text-align: center;
 }
 @media (max-width: 1024px) {
   .container-gallery .gallery-item {
