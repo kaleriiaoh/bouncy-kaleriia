@@ -136,7 +136,7 @@ nav div ul li:hover a, nav div ul li.active a {
   nav div ul {
     -webkit-backdrop-filter: blur(9px);
     backdrop-filter: blur(9px);
-    padding: -15px;
+    margin: 0 -15px;
   }
 }
 

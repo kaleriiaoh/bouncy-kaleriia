@@ -4,7 +4,6 @@
     <list default="true" id="aaf2be58-cb2b-45aa-a628-6ade8a3d6b69" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/style.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css.map" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/style.scss" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.scss" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -81,7 +80,7 @@
       <workItem from="1610375706441" duration="775000" />
       <workItem from="1610382284895" duration="599000" />
       <workItem from="1610489846000" duration="2000" />
-      <workItem from="1610738277444" duration="5660000" />
+      <workItem from="1610738277444" duration="7573000" />
     </task>
     <task id="LOCAL-00001" summary="commit initialize">
       <created>1608680294494</created>
@@ -125,7 +124,21 @@
       <option name="project" value="LOCAL" />
       <updated>1610741558460</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="edited blur">
+      <created>1610744009134</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1610744009134</updated>
+    </task>
+    <task id="LOCAL-00008" summary="edited blur, padding">
+      <created>1610744161457</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1610744161457</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -139,7 +152,9 @@
     <MESSAGE value="Аdded  all sections." />
     <MESSAGE value="edited gallery" />
     <MESSAGE value="edited circular progress bar" />
-    <option name="LAST_COMMIT_MESSAGE" value="edited circular progress bar" />
+    <MESSAGE value="edited blur" />
+    <MESSAGE value="edited blur, padding" />
+    <option name="LAST_COMMIT_MESSAGE" value="edited blur, padding" />
   </component>
   <component name="WindowStateProjectService">
     <state x="845" y="354" width="672" height="342" key="#File_Watchers" timestamp="1608670931251">
@@ -150,10 +165,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="690" y="267" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1608940990277" />
-    <state x="585" y="197" key="CommitChangelistDialog2" timestamp="1610741557713">
+    <state x="585" y="197" key="CommitChangelistDialog2" timestamp="1610744160864">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="585" y="197" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1610741557713" />
+    <state x="585" y="197" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1610744160864" />
     <state x="629" y="298" key="EditFileWatcherDialog" timestamp="1608839258545">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -166,10 +181,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="461" y="165" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1608832109777" />
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1610741561300">
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1610744163017">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1610741561300" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1610744163017" />
     <state x="777" y="434" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1608681200657">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
